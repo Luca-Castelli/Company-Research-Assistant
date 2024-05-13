@@ -1,0 +1,7 @@
+streamlit
+redis
+beautifulsoup4
+requests
+langchain
+python-dotenv
+langgraph
