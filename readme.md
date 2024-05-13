@@ -2,13 +2,15 @@
 
 ## Overview
 
-This web-based application generates detailed reports about companies using Dockerized services including a Streamlit web interface, a backend Python application, and Redis for caching.
+This web-based application generates detailed reports about companies using a combination of Dockerized services.
+It incorporates a Streamlit web interface, a backend Python application using LangGraph to orchestrate an AI agent workflow, and Redis for caching.
+The application leverages a local LLM model (Llama3) to analyze and synthesize information about companies.
 
 ## Features
 
-- **Comprehensive Reports**: Summarizes company overview, business model, financials, and more.
-- **Caching**: Uses Redis to improve response times and reduce load.
-- **Interactive Web Interface**: Powered by Streamlit for easy usage.
+- **AI-Driven Reports**: Leverages a local LLM model and LangGraph to generate comprehensive reports on company operations, financials, and market position.
+- **Caching**: Employs Redis to enhance performance by reducing data retrieval times.
+- **Interactive Interface**: Streamlit-powered frontend for an intuitive user experience.
 
 ## Prerequisites
 
