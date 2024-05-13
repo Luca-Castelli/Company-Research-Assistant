@@ -21,8 +21,8 @@ The application leverages a local LLM model (Llama 3) to analyze and synthesize 
 
 1. **Clone and navigate to repo**
    ```bash
-   git clone https://github.com/yourusername/company-research-tool.git
-   cd company-research-tool
+   git clone https://github.com/Luca-Castelli/company-research.git
+   cd company-research
    ```
 2. **Run Docker Compose**
    ```bash
