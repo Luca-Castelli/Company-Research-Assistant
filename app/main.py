@@ -13,12 +13,12 @@ load_dotenv()
 local_llm = "llama3"
 llama3 = ChatOllama(
     model=local_llm,
-    base_url="http://host.docker.internal:11434",
+    base_url="http://ollama:11434",
     temperature=0,
 )
 llama3_json = ChatOllama(
     model=local_llm,
-    base_url="http://host.docker.internal:11434",
+    base_url="http://ollama:11434",
     format="json",
     temperature=0,
 )
