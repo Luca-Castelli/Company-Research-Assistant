@@ -4,7 +4,7 @@
 
 This web-based application generates detailed reports about companies using a combination of Dockerized services.
 It incorporates a Streamlit web interface, a backend Python application using LangGraph to orchestrate an AI agent workflow, and Redis for caching.
-The application leverages a local LLM model (Llama3) to analyze and synthesize information about companies.
+The application leverages a local LLM model (Llama 3) to analyze and synthesize information about companies.
 
 ## Features
 
