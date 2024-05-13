@@ -32,3 +32,5 @@ The application leverages a local LLM model (Llama 3) to analyze and synthesize 
 ## Usage
 
 Access the web interface at http://localhost:8501. Enter in a company website URL and click "Analyze" to generate the report.
+
+![demo_1](demo/demo_1.PNG)
