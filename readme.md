@@ -1,4 +1,4 @@
-# Company Research Tool
+# Company Research Assistant
 
 ## Overview
 
